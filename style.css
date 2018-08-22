@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    color:#efeee7;
+    background-color: #333333;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+body {
+background-color: #efeee7;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: #333333;
+margin: 0;
+padding: 0;
+font-size: 18px;
+}
+
+h2 {
+    font-size: 24px;
+    }
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    }
+
+#contact-info,
+#main-bio,
+#bio-image
+     {
+        float: left;
+      }
+
+#main-bio {
+    width: 70%;
+    }
+
+#contact-info {
+    width: 30%;
+    }
+
+a{
+    color: #d21034;
+}
